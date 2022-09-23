@@ -1,0 +1,41 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "mesa",
+      "precoCusto": 100,
+      "dataAtualizacao": "13/09/2022"
+    },
+    {
+      "id": 2,
+      "descricao": "cadeira",
+      "precoCusto": 40,
+      "dataAtualizacao": "15/09/2022"
+    },
+    {
+      "id": 3,
+      "descricao": "geladeira",
+      "precoCusto": 350,
+      "dataAtualizacao": "04/09/2022"
+    },
+    {
+      "descricao": "fogao",
+      "precoCusto": 950,
+      "dataAtualizacao": "04/08/2022",
+      "id": 4
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "email": "test@gmil.com",
+      "senha": "123"
+    },
+    {
+      "id": 2,
+      "email": "diego@gmil.com",
+      "senha": "12"
+    }
+    
+  ]
+}
